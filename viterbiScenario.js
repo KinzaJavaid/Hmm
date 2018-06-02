@@ -1,4 +1,4 @@
-var ViterbiAlgorithm = require('viterbi-algorithm');
+var ViterbiAlgorithm = require('hidden-markov-model');
  
 var HMM = ViterbiAlgorithm();
  
